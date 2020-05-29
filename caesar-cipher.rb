@@ -22,6 +22,7 @@ def caesar_cipher(string, num)
       newArr.push(char)
     end
   end
+ 
 
   newArr.join
 end
